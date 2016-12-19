@@ -1,2 +1,2 @@
-# Telnet-using-log-file-downloader
+# FTP-using-log-file-downloader
 Log file downwloader from server using VB Script
